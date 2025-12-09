@@ -41,5 +41,5 @@ Copiar código
 - Estilos con TailwindCSS.
 
 ##  Despliegue
-(Agrega aquí la URL de Netlify cuando la generemos)
+(https://pokedex-rafamorales.netlify.app/)
 
